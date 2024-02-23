@@ -1,2 +1,2 @@
-# brachitecture-
-It is a W3 school construction project
+# brrrrrrrrrrrr
+This repository consist of a w3school architect template's clone
